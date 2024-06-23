@@ -5,14 +5,14 @@
 ### 1. Clone the Repository:
    - Open Android Studio.
    - Select `File > New > Project from Version Control`.
-   - Paste the repository URL: `https://github.com/Bhushanp091/passwordManager.git`.
+   - Paste the repository URL: `(https://github.com/shubhanshu24510/PasswordManagerApp.git)`.
    - Choose the directory for cloning and click `Clone`.
 
 ### 2. Set Up Development Environment:
    - Ensure the following setup:
      - Android Studio (version 4.2+)
-     - Android SDK with API level 30+
-     - Android Build Tools version 30.0.3+
+     - Android SDK with API level 24+
+     - Android Build Tools version 34.0.0+
      - Kotlin plugin updated to the latest version.
 
 ### 3. Open Project in Android Studio:
@@ -25,7 +25,7 @@
 
 ### 1. Connect Device or Emulator:
    - Connect an Android device via USB or launch an emulator.
-   - Ensure the device/emulator runs on API level 30+.
+   - Ensure the device/emulator runs on API level 34+.
 
 ### 2. Build and Run:
    - Click the green play button or select `Run > Run 'app'`.
