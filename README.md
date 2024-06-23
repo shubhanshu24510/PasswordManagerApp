@@ -76,7 +76,3 @@ https://github.com/shubhanshu24510/PasswordManagerApp/assets/100926922/e3ac1ae7-
 - **Backup:** Implement backup for encrypted password storage.
 - **Security:** Encourage strong, unique master passwords.
 - **User Guidance:** Provide in-app instructions for features and security.
-
----
-
-By following this guide, you'll be able to build, run, and explore the Password Manager app with ease. Happy coding!
